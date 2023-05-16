@@ -14,6 +14,6 @@
     "//comment5" : "1 из _ шанс что после символов будет пробел",
     "enterAfterSymbolsChance" : 5, 
 
-    "//comment6" : "1 из _ шанс очередного набора символов",
-    "randomSymbolChance" : 3
+    "//comment6" : "1 к _ шанс очередного набора символов",
+    "randomSymbolChance" : 6
 }
